@@ -228,6 +228,7 @@
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
     "wpackagist-plugin/xml-sitemap-feed": "*",
+    "wpackagist-plugin/zipaddr-jp": "^1.42",
     "wpengine/advanced-custom-fields-pro": "*"
   },
   "require-dev": {
